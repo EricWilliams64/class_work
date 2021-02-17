@@ -1,2 +1,2 @@
-# class_work
+# Class Work
 Assignments done in class
